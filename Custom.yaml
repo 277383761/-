@@ -19,3 +19,4 @@ payload:
   - DOMAIN,outfox.api.zynga.com
   - DOMAIN,sim.pokern.zynga.com
   - DOMAIN,api.zynga.com
+  - DOMAIN,graph.facebook.com
