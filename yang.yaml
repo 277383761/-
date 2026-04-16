@@ -1,0 +1,24 @@
+payload:
+#zynga游戏域名
+  - DOMAIN-SUFFIX,zyngapoker.com
+  - DOMAIN-SUFFIX,zynga.com
+  - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,chartboost.com
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,adsystem.com
+  - DOMAIN-SUFFIX,tapjoy.com
+  - DOMAIN-SUFFIX,tapjoyads.com
+  - DOMAIN-SUFFIX,active.mobi
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,cn.net
+  - DOMAIN-SUFFIX,hosting.ru
+  - DOMAIN-SUFFIX,adsmoloco.com
+  - DOMAIN-SUFFIX,outfox.api.zynga.com
+  - DOMAIN-SUFFIX,sim.pokern.zynga.com
+  - DOMAIN-SUFFIX,api.zynga.com
+  - DOMAIN-SUFFIX,graph.facebook.com
+#安卓破解站国外的
+  - DOMAIN-SUFFIX,playmods.net
