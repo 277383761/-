@@ -1,5 +1,5 @@
 payload:
-	#zynga游戏域名列表
+#zynga游戏域名列表
   - DOMAIN,zyngapoker.com
   - DOMAIN,zynga.com
   - DOMAIN,bugsnag.com
