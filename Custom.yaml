@@ -1,4 +1,5 @@
 payload:
+#zynga游戏域名
   - DOMAIN,zyngapoker.com
   - DOMAIN,zynga.com
   - DOMAIN,bugsnag.com
@@ -19,3 +20,5 @@ payload:
   - DOMAIN,sim.pokern.zynga.com
   - DOMAIN,api.zynga.com
   - DOMAIN,graph.facebook.com
+#安卓破解站国外的
+  - DOMAIN,playmods.net
