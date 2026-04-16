@@ -1,0 +1,18 @@
+payload:
+	#zynga游戏域名列表
+  - DOMAIN,zyngapoker.com
+  - DOMAIN,zynga.com
+  - DOMAIN,bugsnag.com
+  - DOMAIN,appsflyersdk.com
+  - DOMAIN,chartboost.com
+  - DOMAIN,ipify.org
+  - DOMAIN,unity3d.com
+  - DOMAIN,applovin.com
+  - DOMAIN,adsystem.com
+  - DOMAIN,tapjoy.com
+  - DOMAIN,tapjoyads.com
+  - DOMAIN,active.mobi
+  - DOMAIN,ip.sb
+  - DOMAIN,cn.net
+  - DOMAIN,hosting.ru
+  - DOMAIN,adsmoloco.com
