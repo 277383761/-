@@ -23,3 +23,5 @@ payload:
 #安卓破解站国外的
   - DOMAIN-SUFFIX,playmods.net
   - DOMAIN-SUFFIX,happymod.com
+#种子搜索站
+  - DOMAIN-SUFFIX,katcr.to
