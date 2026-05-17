@@ -25,3 +25,5 @@ payload:
   - DOMAIN-SUFFIX,happymod.com
 #种子搜索站
   - DOMAIN-SUFFIX,katcr.to
+#安卓商店
+  - DOMAIN-SUFFIX,apkpure.com
