@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,graph.facebook.com
 #谷歌家的在线小游戏
   - DOMAIN-SUFFIX,gamesnacks.com
+  - DOMAIN-SUFFIX,sdks.gamesnacks.com
 #安卓破解站国外的
   - DOMAIN-SUFFIX,playmods.net
   - DOMAIN-SUFFIX,happymod.com
