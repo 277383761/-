@@ -23,10 +23,21 @@ payload:
 #谷歌家的在线小游戏
   - DOMAIN-SUFFIX,gamesnacks.com
   - DOMAIN-KEYWORD,gamesnacks
-#安卓破解站国外的
+#搜索站
   - DOMAIN-SUFFIX,playmods.net
   - DOMAIN-SUFFIX,happymod.com
-#种子搜索站
   - DOMAIN-SUFFIX,katcr.to
-#安卓商店
+  - DOMAIN-SUFFIX,akepv.app
   - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,bt4gprx.com
+  - DOMAIN-SUFFIX,skrbtla.top
+  - DOMAIN-SUFFIX,anoneko.com
+  - DOMAIN-SUFFIX,eclzz.net
+  - DOMAIN-SUFFIX,btgg.cc
+  - DOMAIN-SUFFIX,cili001.com
+  - DOMAIN-SUFFIX,mini4k.com
+  - DOMAIN-SUFFIX,yts.mx
+  - DOMAIN-SUFFIX,telghub.com
+  - DOMAIN-SUFFIX,vidhub.me
+  - DOMAIN-SUFFIX,yinfans.me
+  
