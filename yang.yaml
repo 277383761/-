@@ -24,8 +24,6 @@ payload:
   - DOMAIN-SUFFIX,gamesnacks.com
   - DOMAIN-KEYWORD,gamesnacks
 #搜索站
-  - DOMAIN-SUFFIX,playmods.net
-  - DOMAIN-SUFFIX,playmods.com
   - DOMAIN-KEYWORD,playmods
   - DOMAIN-SUFFIX,happymod.com
   - DOMAIN-SUFFIX,katcr.to
